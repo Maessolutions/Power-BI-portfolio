@@ -26,9 +26,13 @@ Social Media Engagement: Metrics such as followers, likes, shares, comments, and
 Search Engine Optimization (SEO): Rankings for relevant keywords, organic traffic, and backlink profiles.
 Paid Advertising (PPC): Click-through rates (CTR), conversion rates, cost per acquisition (CPA), and return on ad spend (ROAS).
 ### Content Marketing: Performance of blog posts, videos, and other content, including engagement and lead generation.
+
+![Image](https://github.com/user-attachments/assets/f1b1d972-1957-40e2-a576-036a445fd9b1)
+
 ### Email Marketing: Open rates, click-through rates, and conversion rates.
 Market Share: Percentage of the market controlled by the company and its competitors.
 Customer Sentiment: Analysis of online reviews, social media mentions, and other feedback.
+
 Conversion Rates: The rate at which visitors or leads become customers.
 
 Competitive Data:
