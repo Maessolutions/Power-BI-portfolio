@@ -2,6 +2,8 @@
 
 This dashboard appears to be designed for a Competitive Marketing Analysis, providing a comprehensive overview of key performance indicators (KPIs) and insights related to a company's marketing efforts compared to its competitors. Here's a breakdown of what we can infer about its purpose and potential content:
 
+![Image](https://github.com/user-attachments/assets/39379289-5019-4e2a-9eee-bc715d6d0290)
+
 ### Purpose:
 
 ### Competitive Benchmarking: 
